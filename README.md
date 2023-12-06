@@ -7,7 +7,7 @@ self use, shell code loader help for pentesting.
 
 ## Note that 
 
-It can be bypass AMSI due to use some donut shellcode techine.
+It can be bypass AMSI due to use some donut shellcode .
 
 It may have some bug. 
 
