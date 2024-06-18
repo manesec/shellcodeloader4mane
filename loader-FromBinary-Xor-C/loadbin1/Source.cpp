@@ -45,6 +45,7 @@ int main(int argc, char const* argv[])
 
 				for (int i = 0; i < len + 1; i++)
 	      	    {
+					// Linux may change u_int
 					buffer[i] = (byte)((UINT)buffer[i] ^ 0xfa);
 				}
 
